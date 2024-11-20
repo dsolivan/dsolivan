@@ -1,8 +1,12 @@
 + **👋 Hi there, thanks for visiting my portfolio!**
 + **📚 I am a Business Analytics Student at the University of Delaware**
-+ **📊 Currently interested in work utilizing data analysis, specifically for marketing## 
++ **📊 Currently interested in work utilizing data analysis, specifically for marketing**
 + **🛠️ Proficient in Excel, SQL, Tableau, and Python**
 + **📫 Please reach me at: dsolivan@udel.edu or my [LinkedIn](https://www.linkedin.com/in/dsolivan)**
+
+<ins>**Here are some of my projects:**</ins>
++ [Amazon Prime Video Analysis](https://github.com/dsolivan/prime-data)
++ [AirBnb Analysis](https://github.com/dsolivan/airbnb_analysis)
 
 <!--
 **dsolivan/dsolivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
