@@ -5,6 +5,7 @@
 + **📫 Please reach me at: dsolivan@udel.edu or my [LinkedIn](https://www.linkedin.com/in/dsolivan)**
 
 <ins>**Here are some of my projects:**</ins>
++ [Car Sales Analysis](https://github.com/dsolivan/car_sales_analysis/)
 + [Amazon Prime Video Analysis](https://github.com/dsolivan/prime-data)
 + [AirBnb Analysis](https://github.com/dsolivan/airbnb_analysis)
 
