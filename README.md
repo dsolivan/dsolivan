@@ -1,7 +1,7 @@
 + **👋 Hi there, thanks for visiting my portfolio!**
 + **📚 I am a Business Analytics Student at the University of Delaware**
 + **📊 Currently interested in work utilizing data analysis, specifically for marketing**
-+ **🛠️ Proficient in Excel, SQL, Tableau, and Python**
++ **🛠️ Proficient in Excel, SQL, Tableau, PowerBI, and Python**
 + **📫 Please reach me at: dsolivan@udel.edu or my [LinkedIn](https://www.linkedin.com/in/dsolivan)**
 
 <ins>**Here are some of my projects:**</ins>
